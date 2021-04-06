@@ -1,0 +1,122 @@
+.w{
+    width: 1200px;
+    margin: 0 auto;
+}
+.style_red{
+    /* display: none; */
+    color: #c81623;
+}
+.header{
+    height: 84px;
+    border-bottom: 2px solid #b1191a;
+    padding: 16px 0 0 4px;
+}
+.main{
+    height: 522px;
+    margin-top: 20px;
+    border: 1px solid #dfdfdf;
+}
+.box_hd{
+    height: 41px;
+    line-height: 41px;
+    padding: 0 10px;
+    border-bottom: 1px solid #dddddd;
+    font-size: 18px;
+    color: #333333;
+}
+.box_hd span{
+    float: right;
+    font-size: 14px;
+}
+.box_bd{
+    width: 571px;
+    height: 381px;
+    /* background: pink; */
+    margin: 54px auto 0;
+}
+.box_bd ul .list{
+    margin-bottom: 20px;
+}
+.box_bd ul li label{
+    display: inline-block;
+    width: 96px;
+    height: 36px;
+    line-height: 36px;
+    text-align: right;
+    font-size: 14px;
+    color: #4c4c4c;
+}
+.box_bd ul li .inp{
+    width: 241px;
+    height: 36px;
+    padding-left: 5px;
+    border: 1px solid #999999;
+}
+.box_bd ul li i{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+    margin-right: 5px;
+    background: url(../images/cuowu.png) no-repeat;
+    vertical-align: middle;
+}
+.aqcd{
+    padding-left: 180px;
+    margin-top: -20px;
+}
+.aqcd span{
+    display: inline-block;
+    width: 34px;
+    height: 13px;
+    line-height: 1;
+    text-align: center;
+    color: #ffffff;
+}
+.aqcd .ruo{
+    background: #de1111;
+}
+.aqcd .zhong{
+    display: none;
+    background: #40b83f;
+}
+.aqcd .qiang{
+    display: none;
+    background: #f79100;
+}
+.tongyi{
+    margin-top: 42px;
+    margin-left: 100px;
+}
+.che{
+    vertical-align: middle;
+}
+.tongyi a{
+    color: #1ba1e6;
+}
+.list_btn{
+    margin: 50px 0 0 100px;
+}
+.btn{
+    width: 200px;
+    height: 34px;
+    line-height: 34px;
+    text-align: center;
+    background: #c81623;
+    font-size: 14px;
+    color: #ffffff;
+}
+.footer{
+    margin-top: 24px;
+}
+.footer .mod_copyright{
+    height: 119px;
+    padding-top: 20px;
+    text-align: center;
+}
+.mod_copyright div a{
+    padding: 0 12px;
+}
+ .mod_copyright p{
+     line-height: 27px;
+ }

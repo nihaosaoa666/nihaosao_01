@@ -1,0 +1,123 @@
+.header_banxin .sk{
+    position: absolute;
+    top: 40px;
+    left: 185px;
+    height: 32px;
+    line-height: 32px;
+    padding-left: 14px;
+    border-left: 1px solid #b1191a;
+}
+.nav_banxin .sk_list{
+    float: left;
+}
+.sk_list ul li{
+    float: left
+}
+.sk_list ul li a{
+    display: block;
+    line-height: 45px;
+    padding: 0 28px;
+    font-size: 16px;
+    color: #000000;
+}
+.nav_banxin .sk_con{
+    float: left;
+}
+.sk_con ul li{
+    float: left;
+}
+.sk_con ul li a{
+    display: block;
+    height: 45px;
+    line-height: 47px;
+    padding: 0 23px;
+    font-size: 14px;
+}
+.sk_con ul li:last-child a::after{
+    content: "";
+    font-family: 'iconfont';
+    margin-left: 5px;
+}
+.sk_bd{
+    margin-top: 25px;
+}
+.sk_bd ul li{
+    float: left;
+    width: 290px;
+    height: 460px;
+    margin-right: 13px;
+    border: 1px solid transparent;
+}
+.sk_bd ul li:nth-child(4n){
+    margin-right: 0;
+}
+.sk_bd ul li:hover{
+    border-color: #e12228;
+}
+.sk_bd ul li .li_hd{
+    width: 288px;
+    height: 297px;
+    line-height: 297px;
+    text-align: center;
+}
+.li_bd{
+    width: 288px;
+    height: 112px;
+    padding: 0 11px;
+}
+.li_bd h5{
+    font-size: 14px;
+    font-weight: 400;
+}
+.li_bd p{
+    margin-top: 17px;
+}
+.li_bd p span{
+    margin-left: 2px;
+    margin-right: 8px;
+    font-size: 16px;
+    color: #e60012;
+    font-weight: 400;
+}
+.li_bd p i{
+    font-size: 12px;
+    color: #a4a4a4;
+    font-weight: 400;
+    text-decoration: line-through;
+}
+.li_bd .yishou{
+    float: left;
+    font-size: 14px;
+}
+.li_bd .jindt{
+    float: left;
+    width: 132px;
+    height: 12px;
+    margin: 4px 0 0 12px;
+    border: 1px solid #e12228;
+    border-radius: 6px;
+}
+.jindt div{
+    width: 116px;
+    height: 10px;
+    background: #ed282e;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.li_bd .shengyu{
+    float: right;
+    font-size: 14px;
+}
+.shengyu span{
+    font-size: 16px;
+    color: #e12228;
+}
+.sk_bd ul li .btn{
+    width: 288px;
+    height: 49px;
+    background: #b1191a;
+    line-height: 49px;
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+}

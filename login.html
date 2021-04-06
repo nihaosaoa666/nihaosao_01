@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>注册页面</title>
+     <!-- 引入favicon图标 -->
+     <link rel="shortcut icon" href="favicon.ico" />
+     <!-- 引入初始化样式 -->
+     <link rel="stylesheet" href="CSS/base.css">
+    <!-- 引入页面样式 -->
+    <link rel="stylesheet" href="CSS/zhuce.css">
+</head>
+<body>
+    <header class="w header">
+        <h1>
+            <a href="index.html"><img src="images/logo.png" alt=""></a>
+        </h1>
+    </header>
+    <main class="w main">
+        <div class="box_hd">
+            注册新用户
+            <span>我有账号，去<a href="" class="style_red">登录</a></span>
+        </div>
+        <div class="box_bd">
+            <form action="">
+                <ul>
+                    <li class="list">
+                        <label for="phone">手机号:</label>
+                        <input class="inp" type="tel" id="phone" required="required" placeholder="请输入您的手机号" maxlength="11" autocomplete="off">
+                        <i></i><span class="style_red">手机号码格式不正确，请从新输入</span>
+                    </li>
+                    <li class="list">
+                        <label  for="">短信验证码:</label>
+                        <input class="inp" type="text" id="" required="required" placeholder="请输入短信验证码" autocomplete="off">
+                    </li>
+                    <li class="list">
+                        <label for="">登录密码:</label>
+                        <input class="inp" type="password" id="" required="required" placeholder="请输入密码，不能少于6位数" autocomplete="off">
+                        <i></i><span class="style_red">密码不少于6位数，请从新输入 </span>
+                    </li>
+                    <li class="list aqcd">
+                        安全程度
+                        <span class="ruo">弱</span>
+                        <span class="zhong">中</span>
+                        <span class="qiang">强</span>
+                    </li>
+                    <li class="list">
+                        <label for="">确认密码:</label>
+                        <input class="inp" type="password" id="" required="required" placeholder="确认密码" autocomplete="off">
+                        <i></i><span class="style_red">密码不一致，请从新输入</span>
+                    </li>
+                    <li class="tongyi">
+                        <input class="che" type="checkbox" name="" id="">
+                        同意协议并注册
+                        <a href="">《知果果用户协议》</a>
+                    </li>
+                    <li class="list_btn">
+                        <input class="btn" type="submit" value="完成注册">
+                    </li>
+                </ul>
+            </form>
+        </div>
+    </main>
+    <footer class="footer">
+        <div class="mod_copyright w">
+            <div>
+                <a href="#">关于我们</a>    |    
+                <a href="#">联系我们</a>    |    
+                <a href="#">联系客服</a>    |    
+                <a href="#">商家入驻</a>    |    
+                <a href="#">营销中心</a>    |    
+                <a href="#">手机品优购</a>    |    
+                <a href="#">友情链接</a>    |    
+                <a href="#">销售联盟</a>    |    
+                <a href="#">品优购社区</a>    |    
+                <a href="#">品优购公益</a>    |    
+                <a href="#">English Site</a>    |    
+                <a href="#">Contact U</a> 
+            </div>
+            <p>地址：北京市昌平区建材城西路金燕龙办公楼一层 邮编：100096 电话：400-618-4000 传真：010-82935100 邮箱: zhanghj+itcast.cn</p>
+            <p>京ICP备08001421号京公网安备110108007702</p>
+        </div>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,142 @@
+{
+  "id": "2248115",
+  "name": "1",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8776822",
+      "name": "cart_empty",
+      "font_class": "icon-test",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "17675152",
+      "name": "callin",
+      "font_class": "callin",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "17675158",
+      "name": "download",
+      "font_class": "download",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "17675160",
+      "name": "close",
+      "font_class": "close",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "17675163",
+      "name": "delete",
+      "font_class": "delete",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "17675165",
+      "name": "Group 5",
+      "font_class": "Group5",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "17675168",
+      "name": "enable",
+      "font_class": "enable",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "17675176",
+      "name": "file",
+      "font_class": "file",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "17675177",
+      "name": "fullscreen",
+      "font_class": "fullscreen",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "17675181",
+      "name": "Group 3",
+      "font_class": "Group3",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "17675185",
+      "name": "new",
+      "font_class": "new",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "17675186",
+      "name": "more",
+      "font_class": "more",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "17675206",
+      "name": "star0",
+      "font_class": "star0",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "17675216",
+      "name": "star1",
+      "font_class": "star1",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "17675217",
+      "name": "setting",
+      "font_class": "setting",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "18522247",
+      "name": "收起",
+      "font_class": "shouqi",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "18522264",
+      "name": "展开",
+      "font_class": "zhankai",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "18522265",
+      "name": "右箭头",
+      "font_class": "youjiantou",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "18522267",
+      "name": "iOS返回",
+      "font_class": "iOSfanhui",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    }
+  ]
+}
